@@ -48,7 +48,7 @@ Selig](https://scholar.xjtlu.edu.cn/en/persons/ThomasSelig),
 2016-18 (currently at Xi\'an Jiaotong-Liverpool University)\
 [Jason P. Smith](https://jasonpsmith.github.io/), 2015-18 (currently at
 Nottingham Trent University)\
-[Henning Úlfarsson](https://permutatriangle.github.io/authors/ulfarsson.html/), 2009-2013 (currently
+[Henning Úlfarsson](https://permutatriangle.github.io/authors/ulfarsson.html), 2009-2013 (currently
 at Reykjavík University)\
 Chris Severs 2010-2011 (currently Researcher at eBay)\
 [Vít Jelínek](http://kam.mff.cuni.cz/~jelinek/), 2009-2010 (currently at
