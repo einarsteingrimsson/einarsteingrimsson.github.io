@@ -1,5 +1,5 @@
 ---
-title: Einar Steingrímsson](.)\'s CV
+title: Einar Steingrímsson's CV
 ---
 
 ### Education
