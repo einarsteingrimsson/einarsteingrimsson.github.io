@@ -24,7 +24,7 @@ My email address is <einar@alum.mit.edu>
 [**My
 papers**](papers.html)\
 [**My papers on Google
-Scholar**](http://scholar.google.is/citations?user=njZmYpYAAAAJ&hl=en)\
+Scholar**](https://scholar.google.is/citations?user=njZmYpYAAAAJ&hl=en&num=20&oi=ao)\
 
 [**An interview, by Toufik
 Mansour**](http://ecajournal.haifa.ac.il/Volume2023/ECA2023_S3I2.pdf)\
