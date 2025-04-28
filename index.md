@@ -22,7 +22,7 @@ My email address is <einar@alum.mit.edu>
 \
 
 [**My
-papers**](http://personal.strath.ac.uk/einar.steingrimsson/papers.html)\
+papers**](papers.html)\
 [**My papers on Google
 Scholar**](http://scholar.google.is/citations?user=njZmYpYAAAAJ&hl=en)\
 
