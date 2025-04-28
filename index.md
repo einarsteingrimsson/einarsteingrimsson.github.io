@@ -15,7 +15,7 @@ My email address is <einar.steingrimsson@cis.strath.ac.uk>
 
 Here is my [CV](cv.html), and here a [personal homepage](personal.html)
 
-[**My papers**](papers/)\
+[**My papers**](papers.html)\
 [**My papers on Google
 Scholar**](http://scholar.google.is/scholar?hl=en&num=100&q=author%3Ae-steingrimsson+%7C+SteingrUVmsson&btnG=Search&as_subj=eng&as_sdt=0%2C5&as_ylo=&as_vis=0)\
 [**My
