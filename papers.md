@@ -1,15 +1,146 @@
 ---
-title: Einar Steingrímsson's Papers
+title:  Papers and preprints
 ---
 
-Papers and preprints
---------------------
+------------------------------------------------------------------------
+
+Anders Claesson, Atli Fannar Franklín, Einar Steingrímsson
+
+[Permutations with few
+inversions](https://www.combinatorics.org/ojs/index.php/eljc/article/view/v30i4p7)
+
+The Electronic Journal of Combinatorics, 30(4), 2023.
+
+------------------------------------------------------------------------
+
+Einar Steingrimsson
+
+[The History of the Gothenburg-Reykjavík-Strathclyde Combinatorics
+Group](http://ecajournal.haifa.ac.il/Volume2023/ECA2023_S1H1.pdf)
+
+[Enumerative Combinatorics and
+Applications](http://ecajournal.haifa.ac.il/Volume2023/ECA2023_S1H1.pdf),
+3:1 (2023), Article \#S1H1.
+
+------------------------------------------------------------------------
+
+Natasha Blitvić, Einar Steingrimsson
+
+[Permutations, moments, measures](https://arxiv.org/abs/2001.00280)
+
+[Transactions of the American Mathematical
+Society](https://www.ams.org/journals/tran/2021-374-08/S0002-9947-2021-08330-0/),
+374 (8) 2021, 5473-5508.
+
+------------------------------------------------------------------------
+
+Antonio Bernini, Matteo Cervetti, Luca Ferrari, Einar Steingrimsson
+
+[Enumerative combinatorics of intervals in the Dyck pattern
+poset](https://link.springer.com/content/pdf/10.1007%2Fs11083-021-09552-9.pdf)
+
+[Order, 2021](https://www.springer.com/journal/11083)
+
+------------------------------------------------------------------------
+
+Giulio Cerbai, Anders Claesson, Luca Ferrari, Einar Steingrímsson
+
+[Sorting with pattern-avoiding stacks: the
+132-machine](https://www.combinatorics.org/ojs/index.php/eljc/article/view/v27i3p32)
+
+The Electronic Journal of Combinatorics, 27(3), 2020.
+
+------------------------------------------------------------------------
+
+Einar Steingrímsson
+
+[Statistics on Ordered Partitions of
+Sets](http://arxiv.org/abs/math/0605670)
+
+[Journal of
+Combinatorics](https://www.intlpress.com/site/pub/pages/journals/items/joc/_home/_main/index.php),
+3 (2020), 557-574.
+
+------------------------------------------------------------------------
+
+Mark Dukes, Thomas Selig, Jason P. Smith and Einar Steingrímsson
+
+[Permutation graphs and the Abelian sandpile model, tiered trees and
+non-ambiguous binary
+trees](https://www.combinatorics.org/ojs/index.php/eljc/article/view/v26i3p29)
+
+The Electronic Journal of Combinatorics, 26(3), 2019.
+
+------------------------------------------------------------------------
+
+Mark Dukes, Thomas Selig, Jason P. Smith and Einar Steingrímsson
+
+[The Abelian sandpile model on Ferrers graphs - A classification of
+recurrent configurations](https://arxiv.org/abs/1809.07728)
+
+European Journal of Combinatorics, 81 (2019), 221-241.
+
+------------------------------------------------------------------------
+
+William Dugan, Sam Glennon, Paul E. Gunnells and Einar Steingrímsson
+
+[Tiered trees, weights, and q-Eulerian
+numbers](https://arxiv.org/abs/1702.02446v2)
+
+Journal of Combinatorial Theory Series A, 164 (2019), 24-49.
+
+------------------------------------------------------------------------
+
+Thomas Selig, Jason P. Smith and Einar Steingrímsson
+
+[EW-tableaux, Le-tableaux, tree-like tableaux and the Abelian sandpile
+model](http://www.combinatorics.org/ojs/index.php/eljc/article/view/v25i3p14/0)
+
+The Electronic Journal of Combinatorics 25(3), 2018.
+
+------------------------------------------------------------------------
+
+Peter R. W. McNamara and Einar Steingrímsson
+
+[On the topology of the permutation pattern
+poset](http://arxiv.org/abs/1305.5569)
+
+Journal of Combinatorial Theory Series A, 134 (2015), 1-35.
+
+------------------------------------------------------------------------
+
+Richard Ehrenborg, Sergey Kitaev and Einar Steingrímsson
+
+[Number of cycles in the graph of 312-avoiding
+permutations](http://arxiv.org/abs/1310.1520)
+
+Journal of Combinatorial Theory Series A, 129 (2015), 1-18.
+
+------------------------------------------------------------------------
+
+Mark Dukes, Einan Gardi, Einar Steingrímsson, and Chris D. White
+
+[Web worlds, web-colouring matrices, and web-mixing
+matrices](http://arxiv.org/abs/1301.6576)
+
+Journal of Combinatorial Theory Series A, 120(5) (2013), 1012---1037
+
+------------------------------------------------------------------------
+
+Einar Steingrímsson
+
+[Some open problems on permutation
+patterns](http://arxiv.org/abs/1210.7320)
+
+London Mathematical Society Lecture Note Series, 2013, 239\--263.
+
+------------------------------------------------------------------------
 
 Anders Claesson, Sergey Kitaev, Einar Steingrímsson
 
 [An involution on β(1,0)-trees](http://arxiv.org/abs/1210.1608)
 
-Preprint (2012)
+Advances in Applied Mathematics 51 (2013), 276-284.
 
 ------------------------------------------------------------------------
 
@@ -18,7 +149,14 @@ Anders Claesson, Vít Jelínek, Einar Steingrímsson
 [Upper bounds for the Stanley-Wilf limit of 1324 and other layered
 patterns](http://arxiv.org/abs/1111.5736)
 
-Journal of Combinatorial Theory Series A 119(8) (2012) 1680--1691
+Journal of Combinatorial Theory Series A 119(8) (2012), 1680--1691
+
+------------------------------------------------------------------------
+
+Eric Babson, Einar Steingrímsson
+
+[Random Walks and Mixed Volumes of
+Hypersimplices](https://arxiv.org/abs/1207.5022)
 
 ------------------------------------------------------------------------
 
@@ -40,7 +178,7 @@ Journal of Combinatorics 2 (2011) 139--163
 
 ------------------------------------------------------------------------
 
-Alexander Burstein, Vít Jelínek, Eva Jelinkova, Einar Steingrímsson
+Alexander Burstein, Vít Jelínek, Eva Jelínková, Einar Steingrímsson
 
 [The Möbius function of separable and decomposable
 permutations](http://arxiv.org/abs/1102.1611)
@@ -61,7 +199,7 @@ The Electronic Journal of Combinatorics 18(1) (2011)
 Einar Steingrímsson
 
 [Generalized permutation patterns - a short
-survey](http://combinatorics.cis.strath.ac.uk/download/St08__Generalized_permutation.pdf)
+survey](http://arxiv.org/abs/0801.2412)
 
 \"Permutation Patterns\", London Math. Soc. Lecture Note Ser. Cambridge
 Univ. Press (2010) 137--152
@@ -100,7 +238,7 @@ doi:10.1016/j.aam.2008.09.001
 Einar Steingrímsson, Lauren K. Williams
 
 [Permutation tableaux and permutation
-patterns](http://combinatorics.cis.strath.ac.uk/download/StWi07__Permutation_tableaux.pdf)
+patterns](http://combinatorics.cis.strath.ac.uk/old/download/StWi07__Permutation_tableaux.pdf)
 
 Journal of Combinatorial Theory Series A 114(2) (2007) 211--234
 
@@ -117,7 +255,7 @@ results](http://web.mac.com/xgviennot/iWeb/Xavier_Viennot/articles_files/FPSAC07
 Mireille Bousquet-Mélou, Einar Steingrímsson
 
 [Decreasing subsequences in permutations and Wilf equivalence for
-involutions](http://combinatorics.cis.strath.ac.uk/download/BoSt05__Decreasing_subsequences.pdf)
+involutions](http://combinatorics.cis.strath.ac.uk/old/download/BoSt05__Decreasing_subsequences.pdf)
 
 Journal of Algebraic Combinatorics 22 (2005) 383--409
 
@@ -126,7 +264,7 @@ Journal of Algebraic Combinatorics 22 (2005) 383--409
 Petter Brändén, Anders Claesson, Einar Steingrímsson
 
 [Catalan Continued Fractions and Increasing Subsequences in
-Permutations](http://combinatorics.cis.strath.ac.uk/download/BrClSt02__Catalan_Continued.pdf)
+Permutations](http://combinatorics.cis.strath.ac.uk/old/download/BrClSt02__Catalan_Continued.pdf)
 
 Discrete Mathematics 258 (2002) 275--287
 
@@ -134,24 +272,8 @@ Discrete Mathematics 258 (2002) 275--287
 
 Einar Steingrímsson
 
-[Statistics on Ordered Partitions of
-Sets](http://combinatorics.cis.strath.ac.uk/download/St01__Statistics_on.pdf)
-
-Preprint (2001)
-
-[A paper by Ksavrelof and Zeng proving some
-conjectures](http://www.elseviermathematics.com/mathematicsweb/show/Index.htt?Issn=0012365X)\
-[A paper by Ishikawa, Kasraoui and Zeng proving some of the \"hard\"
-conjectures](http://xxx.lanl.gov/pdf/math.CO/0605390)\
-[A paper by Kasraoui and Zeng with combinatorial proofs of all
-conjectures](http://xxx.lanl.gov/pdf/0712.1755)
-
-------------------------------------------------------------------------
-
-Einar Steingrímsson
-
 [The Coloring Ideal and Coloring Complex of a
-Graph](http://combinatorics.cis.strath.ac.uk/download/St01__The_Coloring.pdf)
+Graph](http://combinatorics.cis.strath.ac.uk/old/download/St01__The_Coloring.pdf)
 
 Journal of Algebraic Combinatorics 14 (2001) 73--84
 
@@ -172,7 +294,7 @@ Crown](http://www.denison.edu/academics/departments/mathcs/cycliccoloringcomplex
 Richard Ehrenborg, Einar Steingrímsson
 
 [Yet Another Triangle for the Genocchi
-Numbers](http://combinatorics.cis.strath.ac.uk/download/EhSt00__Yet_Another.pdf)
+Numbers](http://combinatorics.cis.strath.ac.uk/old/download/EhSt00__Yet_Another.pdf)
 
 European Journal of Combinatorics 21 (2000) 593--600
 
@@ -181,7 +303,7 @@ European Journal of Combinatorics 21 (2000) 593--600
 Richard Ehrenborg, Einar Steingrímsson
 
 [The Excedance Set of a
-Permutation](http://combinatorics.cis.strath.ac.uk/download/EhSt00__The_Excedance.pdf)
+Permutation](http://combinatorics.cis.strath.ac.uk/old/download/EhSt00__The_Excedance.pdf)
 
 Advances in Applied Mathematics 24 (2000) 284--299
 
@@ -194,7 +316,7 @@ paper](http://www.sciencedirect.com/science?_ob=ArticleURL&_udi=B6WDY-45WRKB7-9&
 Eric Babson, Einar Steingrímsson
 
 [Generalized Permutation Patterns and a Classification of the Mahonian
-Statistics](http://combinatorics.cis.strath.ac.uk/download/BaSt00__Generalized_Permutation.pdf)
+Statistics](http://www.emis.de/journals/SLC/wpapers/s44stein.html)
 
 Séminaire Lotharingien de Combinatoire B44b (2000) 18 pp
 
@@ -208,7 +330,7 @@ classification](http://www.sciencedirect.com/science?_ob=MImg&_imagekey=B6WDY-4F
 Einar Steingrímsson
 
 [A Chromatic Partition
-Polynomial](http://combinatorics.cis.strath.ac.uk/download/St98__A_Chromatic.pdf)
+Polynomial](http://combinatorics.cis.strath.ac.uk/old/download/St98__A_Chromatic.pdf)
 
 Discrete Mathematics 180 (1998) 357--368
 
@@ -217,7 +339,7 @@ Discrete Mathematics 180 (1998) 357--368
 Richard Ehrenborg, Margaret Readdy, Einar Steingrímsson
 
 [Mixed Volumes and Slices of the
-Cube](http://combinatorics.cis.strath.ac.uk/download/EhReSt98__Mixed_Volumes.pdf)
+Cube](http://combinatorics.cis.strath.ac.uk/old/download/EhReSt98__Mixed_Volumes.pdf)
 
 Journal of Combinatorial Theory Series A 81 (1998) 121--126
 
@@ -226,7 +348,7 @@ Journal of Combinatorial Theory Series A 81 (1998) 121--126
 Jon Lee, Einar Steingrímsson, Chun Wa Ko
 
 [The Volume of Boolean Quadric and Cut
-Polytopes](http://combinatorics.cis.strath.ac.uk/download/LeStKo97__The_Volume.pdf)
+Polytopes](http://combinatorics.cis.strath.ac.uk/old/download/LeStKo97__The_Volume.pdf)
 
 Discrete Mathematics 163 (1997) 293--298
 
@@ -235,7 +357,7 @@ Discrete Mathematics 163 (1997) 293--298
 Robert J. Clarke, Einar Steingrímsson, Jiang Zeng
 
 [The k-Extensions of some new Mahonian
-statistics](http://combinatorics.cis.strath.ac.uk/download/ClStZe97__The_k-Extensions.pdf)
+statistics](http://combinatorics.cis.strath.ac.uk/old/download/ClStZe97__The_k-Extensions.pdf)
 
 European Journal of Combinatorics 18 (1997) 143--154
 
@@ -244,7 +366,7 @@ European Journal of Combinatorics 18 (1997) 143--154
 Robert J. Clarke, Einar Steingrímsson, Jiang Zeng
 
 [New Euler-Mahonian Statistics on Permutations and
-Words](http://combinatorics.cis.strath.ac.uk/download/ClStZe97__New_Euler-Mahonian.pdf)
+Words](http://combinatorics.cis.strath.ac.uk/old/download/ClStZe97__New_Euler-Mahonian.pdf)
 
 Advances in Applied Mathematics 18 (1997) 237--270
 
@@ -253,7 +375,7 @@ Advances in Applied Mathematics 18 (1997) 237--270
 Richard Ehrenborg, Einar Steingrímsson
 
 [Playing Nim on a Simplicial
-Complex](http://combinatorics.cis.strath.ac.uk/download/EhSt96__Playing_Nim.pdf)
+Complex](https://www.combinatorics.org/ojs/index.php/eljc/article/view/v3i1r9)
 
 The Electronic Journal of Combinatorics 3 (1996) 33 pp
 
@@ -265,7 +387,7 @@ results](http://www.combinatorics.org/Volume_6/Abstracts/v6i1r11.html)
 Einar Steingrímsson
 
 [Permutation Statistics of Indexed
-Permutations](http://combinatorics.cis.strath.ac.uk/download/St94__Permutation_Statistics.pdf)
+Permutations](http://combinatorics.cis.strath.ac.uk/old/download/St94__Permutation_Statistics.pdf)
 
 European Journal of Combinatorics 15 (1994) 187--205
 
@@ -274,17 +396,23 @@ European Journal of Combinatorics 15 (1994) 187--205
 Einar Steingrímsson
 
 [A Decomposition of 2-Weak Vertex-Packing
-Polytopes](http://combinatorics.cis.strath.ac.uk/download/St94__A_Decomposition.pdf)
+Polytopes](http://combinatorics.cis.strath.ac.uk/old/download/St94__A_Decomposition.pdf)
 
 Discrete and Computational Geometry 12 (1994) 465--479
+
+------------------------------------------------------------------------
+
+Einar Steingrímsson
+
+[Permutation Statistics of Indexed and Poset
+Permutations](https://dspace.mit.edu/bitstream/handle/1721.1/35952/26391022-MIT.pdf?sequence=2)
+
+My thesis
+
+------------------------------------------------------------------------
 
 [Google Scholar](http://scholar.google.com/citations?user=njZmYpYAAAAJ&hl=en)
 -----------------------------------------------------------------------------
 
 View my papers on [Google
 Scholar](http://scholar.google.com/citations?user=njZmYpYAAAAJ&hl=en)
-
-[Collaborators](/einar/collaborators)
--------------------------------------
-
-Here is a list of my [collaborators](/einar/collaborators)
